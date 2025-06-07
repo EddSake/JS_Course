@@ -1,0 +1,14 @@
+Exercise 1: Variable Declaration
+- Declare variables using var, let, and const
+- Try to reassign values to each type
+- Observe and log the differences
+
+Exercise 2: Scope Testing
+- Create variables in global scope
+- Create variables in block scope
+- Try accessing them from different places
+
+Exercise 3: Hoisting
+- Try using variables before declaration
+- Compare behavior between var, let, and const
+- Log the results

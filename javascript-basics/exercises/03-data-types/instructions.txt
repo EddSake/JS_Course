@@ -1,0 +1,14 @@
+Exercise 1: Type Conversion
+- Create variables with different types (number, string, boolean)
+- Convert between types explicitly
+- Test implicit type conversion
+
+Exercise 2: Type Operations
+- Perform operations between different types
+- Use typeof operator
+- Test truthy and falsy values
+
+Exercise 3: Special Numbers
+- Work with NaN, Infinity, -Infinity
+- Perform calculations with these special numbers
+- Test number precision limits

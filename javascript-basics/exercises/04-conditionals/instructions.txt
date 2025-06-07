@@ -1,0 +1,14 @@
+Exercise 1: If Statements
+- Create basic if/else conditions
+- Use comparison operators
+- Implement nested if statements
+
+Exercise 2: Switch Statement
+- Create a switch statement with multiple cases
+- Include a default case
+- Use break and fallthrough cases
+
+Exercise 3: Ternary Operator
+- Convert if/else statements to ternary operators
+- Chain multiple ternary operators
+- Compare readability with if/else

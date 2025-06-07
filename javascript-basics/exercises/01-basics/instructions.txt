@@ -1,0 +1,14 @@
+Exercise 1: Basic Console Output
+- Create several console.log() statements with different messages
+- Use console.error() for an error message
+- Use console.warn() for a warning message
+
+Exercise 2: Basic Math Operations
+- Create two variables with numbers
+- Perform addition, subtraction, multiplication, and division
+- Show the results using console.log()
+
+Exercise 3: Template Literals
+- Create variables for name, age, and profession
+- Create a message using template literals
+- Include some basic math operations within the template literal
